@@ -30,4 +30,4 @@ The `parse` method should take in a list of emails either separated with spaces,
 
 Get all the tests to pass by implementing an "EmailParser" class.
 
-Run the test suite using the `rspec` command.
+Run the test suite using the `learn` command.
